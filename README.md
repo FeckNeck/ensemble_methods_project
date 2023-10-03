@@ -10,4 +10,4 @@ Download external python libraries from requirement.txt file with command :
 ```
 py -m pip install -r requirements.txt
 ```
-Run the index.py
+Run the index.ipynb
