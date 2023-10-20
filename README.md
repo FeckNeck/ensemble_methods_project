@@ -8,6 +8,6 @@ Finally, a pdf report presents and explains the results.
 
 Download external python libraries from requirement.txt file with command :
 ```
-py -m pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 Run the index.ipynb
