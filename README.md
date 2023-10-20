@@ -8,6 +8,8 @@ Finally, a pdf report presents and explains the results.
 
 Download external python libraries from requirement.txt file with command :
 ```
+create a virtual environnement base on requirements.txt
+or
 py -m pip install -r requirements.txt
 ```
 Run the index.ipynb
